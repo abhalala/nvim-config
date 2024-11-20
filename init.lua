@@ -10,5 +10,5 @@ if vim.g.neovide then
   -- Blur (macOS only)
   -- vim.g.neovide_window_blurred = true
   -- Transparency
-  vim.g.neovide_transparency = 0.8
+  vim.g.neovide_transparency = 0.7
 end
